@@ -1,0 +1,6 @@
+.calendar{
+    display: grid;
+    grid-template-columns: repeat(4, 40px);
+    grid-template-rows: repeat(3, 40px);
+    position: fixed;
+}
