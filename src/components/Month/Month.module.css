@@ -6,9 +6,6 @@
 
 .peopleList{
     overflow: auto;
-    /* height: 126px; */
-
-    /* width: 165px; */
 }
 
 .peopleListItem{
@@ -18,11 +15,6 @@
     margin: 10px 20px;
     color: rgb(70, 69, 69);
 }
-
-/* .peopleList div{
-    display: flex;
-    justify-content: center;
-} */
 
 .textLeft{
     transform:rotate(-90deg);

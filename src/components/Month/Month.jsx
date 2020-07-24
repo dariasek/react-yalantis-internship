@@ -6,7 +6,6 @@ class Month extends Component {
     peopleListDisplay: "none",
     monthDisplay: "flex",
     leftTextVisibility: "hidden",
-    // colorDivStyle: 'false',
   };
 
   changeVisibility = () => {
@@ -15,14 +14,12 @@ class Month extends Component {
         monthDisplay: "none",
         peopleListDisplay: "block",
         leftTextVisibility: "visible",
-        // colorDivStyle:'true'
       });
     } else {
       this.setState({
         peopleListDisplay: "none",
         monthDisplay: "flex",
         leftTextVisibility: "hidden",
-        // colorDivStyle:false,
       });
     }
   };
@@ -54,10 +51,6 @@ class Month extends Component {
       );
     });
 
-    // let peopleListNames = peopleList.map(
-    //   (el) => el.firstName + " " + el.lastName
-    // );
-
     let styleColor;
     if (peopleList.length >= 11) {
       styleColor = "#E35555";
@@ -79,7 +72,6 @@ class Month extends Component {
       >
         <div
           className={styles.colorDiv}
-          // style={{ backgroundColor: (this.state.colorDivStyle) ? styleColor : 'white' }}
           style={{ backgroundColor: styleColor }}
         >
           <div
