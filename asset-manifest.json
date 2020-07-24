@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-yalantis-internship/static/css/main.1b305cd4.chunk.css",
+    "main.js": "/react-yalantis-internship/static/js/main.53954f06.chunk.js",
+    "main.js.map": "/react-yalantis-internship/static/js/main.53954f06.chunk.js.map",
+    "runtime-main.js": "/react-yalantis-internship/static/js/runtime-main.845473f8.js",
+    "runtime-main.js.map": "/react-yalantis-internship/static/js/runtime-main.845473f8.js.map",
+    "static/js/2.7d43edab.chunk.js": "/react-yalantis-internship/static/js/2.7d43edab.chunk.js",
+    "static/js/2.7d43edab.chunk.js.map": "/react-yalantis-internship/static/js/2.7d43edab.chunk.js.map",
+    "index.html": "/react-yalantis-internship/index.html",
+    "precache-manifest.2f7a81a81f40ff3854d0348ddc26d448.js": "/react-yalantis-internship/precache-manifest.2f7a81a81f40ff3854d0348ddc26d448.js",
+    "service-worker.js": "/react-yalantis-internship/service-worker.js",
+    "static/css/main.1b305cd4.chunk.css.map": "/react-yalantis-internship/static/css/main.1b305cd4.chunk.css.map",
+    "static/js/2.7d43edab.chunk.js.LICENSE.txt": "/react-yalantis-internship/static/js/2.7d43edab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845473f8.js",
+    "static/js/2.7d43edab.chunk.js",
+    "static/css/main.1b305cd4.chunk.css",
+    "static/js/main.53954f06.chunk.js"
+  ]
+}
